@@ -10,6 +10,12 @@
     <div class="content">
       {{ content }}
     </div>
+    {% assign author = site.authors[page.author] %}
+    <address class="signature">
+      <a class="author" href="{{ HOME_PATH }}">{{ author.name }}</a>
+      <span class="date">{{ page.date | date_to_long_string }}</span>
+      <span class="location">{{ page.location }}</span>
+    </address>
 
   {% unless page.categories == empty %}
     <ul class="tag_box inline">

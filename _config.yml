@@ -10,9 +10,34 @@ pygments: true
 #
 title : HVAC.IO
 tagline: Record, Analyze, Improve!
-author :
-  name : HVAC.IO
-  email : contact@hvac.io
+
+
+# http://whatdoesthequantsay.com/2014/03/16/adding-multiple-authors-to-the-jb-twitter-theme/
+authors :
+    CF:
+      name : Christian Fortin
+      email : cfortin@hvac.io
+      github : frozenlock
+      copyright : true
+    author2:
+      name : Name2 Lastname2
+      email : blah2@email.test
+      github : username2
+      twitter : username2
+      feedburner : feedname2
+      copyright : true
+    guest:
+      name : Name Lastname
+      email : blah@email.test
+      github : username
+      twitter : username
+      feedburner : feedname
+      copyright : false
+
+
+# author :
+#   name : HVAC.IO
+#   email : contact@hvac.io
 # github : username
 # twitter : username
 # feedburner : feedname

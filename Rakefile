@@ -45,6 +45,8 @@ desc "Begin a new post in #{CONFIG['posts']}"
 task :post do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   title = ENV["title"] || "new-post"
+  author = ENV["author"] || ""
+  author = "#{author.gsub(/-/,' ')}" if !author.empty?
   tags = ENV["tags"] || "[]"
   category = ENV["category"] || ""
   category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
@@ -65,6 +67,7 @@ task :post do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts "author: #{author}"
     post.puts 'description: ""'
     post.puts "category: #{category}"
     post.puts "tags: #{tags}"

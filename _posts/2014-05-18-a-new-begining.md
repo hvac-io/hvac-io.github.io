@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A New Begining"
+author: CF
 description: ""
 category: miscellaneous
 tags: []
@@ -30,5 +31,3 @@ added to Vigilia, the Bacnet logging service! :-)
 This is looking like a fabulous new beginning!
 
 As always, feel free to contact us anytime!
-
-Christian "Frozenlock" Fortin
