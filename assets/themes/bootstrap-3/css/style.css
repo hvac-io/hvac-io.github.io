@@ -94,13 +94,13 @@ h1, h2, h3, h4 {
 
 .signature .title {
     font-size: 80%
+    margin-bottom: 1.5em;
     }
 
 .signature .author {
   font-variant: small-caps;
   font-style: normal;
   display: block;
-  margin-bottom: 1.5em;
 }
 .signature .date {
   font-size: 87.5%;
