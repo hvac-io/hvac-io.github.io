@@ -92,6 +92,11 @@ h1, h2, h3, h4 {
   color: #999
 }
 
+.signature .picture {
+    max-height: 80px;
+    max-width: 80px;
+    border-radius: 50%;
+
 .signature .title {
     font-size: 80%;
     margin-bottom: 1.5em;

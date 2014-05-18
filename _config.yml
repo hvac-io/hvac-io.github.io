@@ -17,6 +17,7 @@ authors :
     CF:
       name : Christian Fortin
       title : Founder
+      picture : /images/cf.png
       email : cfortin@hvac.io
       github : frozenlock
       copyright : true

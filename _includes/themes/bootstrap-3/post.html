@@ -13,6 +13,7 @@
     
     {% assign author = site.authors[page.author] %}
     <address class="signature">
+      <img class="picture" src="{{ author.picture }}">
       <div class="author">{{ author.name }}</div>
       <div class="title">{{ author.title }}</div>
       <!-- <span class="date">{{ page.date | date_to_long_string }}</span> -->
