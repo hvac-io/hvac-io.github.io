@@ -12,10 +12,10 @@ title : HVAC.IO
 tagline: Site Tagline
 author :
   name : HVAC.IO
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  email : contact@hvac.io
+# github : username
+# twitter : username
+# feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -72,8 +72,8 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+#  atom_path : /atom.xml
+#  rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
