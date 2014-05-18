@@ -21,7 +21,7 @@ are no longer bound by it.
 
 We also took the opportunity to make some major changes in the site
 aesthetic and in the backend architecture. Our services are now even
-more reliable and able to deal with all sorts of enterprises.
+more reliable and able to deal with all sorts of enterprise.
 
 We are very excited with about those changes, but also about the brand
 new [analytics tools](https://hvac.io/services/vigilia#analysis) we

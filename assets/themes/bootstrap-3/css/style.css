@@ -21,7 +21,9 @@ h1, h2, h3, h4 {
   background-color: #fdcd60;
 }
 
-
+.post-container {
+    max-width: 586px;
+    }
 
 /* posts index */
 .post > h3.title {
