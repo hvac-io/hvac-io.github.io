@@ -23,6 +23,8 @@ h1, h2, h3, h4 {
 
 .post-container {
     max-width: 586px;
+    margin-left: auto;
+    margin-right: auto;
     }
 
 /* posts index */
