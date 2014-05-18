@@ -23,9 +23,9 @@ We also took the opportunity to make some major changes in the site
 aesthetic and in the backend architecture. Our services are now even
 more reliable and able to deal with all sorts of enterprises.
 
-We are very excited with about those changes, but also to the brand
+We are very excited with about those changes, but also about the brand
 new [analytics tools](https://hvac.io/services/vigilia#analysis) we
-added to Vigilia, the Bacnet logging service!
+added to Vigilia, the Bacnet logging service! :-)
 
 This is looking like a fabulous new beginning!
 
