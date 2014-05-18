@@ -11,7 +11,7 @@ pygments: true
 title : HVAC.IO
 tagline: Site Tagline
 author :
-  name : Name Lastname
+  name : HVAC.IO
   email : blah@email.test
   github : username
   twitter : username
@@ -130,7 +130,3 @@ JB :
   
 #Markdown interpreter
 markdown: kramdown
-
-
-# Home path
-HOME_PATH : https://hvac.io
