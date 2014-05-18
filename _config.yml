@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : HVAC.IO
-tagline: Site Tagline
+tagline: Record, Analyze, Improve!
 author :
   name : HVAC.IO
   email : contact@hvac.io
