@@ -4,7 +4,7 @@ title: "BACnet Tablets?"
 author: CF
 description: ""
 category: 
-tags: [bacnet tablet wacnet]
+tags: [bacnet, tablet, wacnet]
 ---
 {% include JB/setup %}
 
