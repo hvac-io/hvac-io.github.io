@@ -44,9 +44,9 @@ machine!
 
 In light of this, we are already preparing ourselves to install Wacnet
 on tablets. A complete standalone Bacnet webserver on a disposable
-tablet... connect it to any network and you can see the entire
-network. This would enable technicians to be directly in front of
-their machines AND access the network at the same time.
+tablet... connect it to any network and you can see every Bacnet
+device. This would enable technicians to be directly in front of their
+machines AND access the network at the same time.
 
 We are not quite there yet, but we are getting close. We are exploring
 the different chip architectures and trying to find which one is going
