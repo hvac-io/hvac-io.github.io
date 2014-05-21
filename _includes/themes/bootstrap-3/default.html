@@ -62,12 +62,12 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
-	  <form action="https://hvac.io/newsletter" class="form-inline" method="POST" role="form">
+	  <form action="https://hvac.io/newsletter" class="navbar-form navbar-right" method="POST" role="form">
 	    <div class="form-group">
-	      <input class="input-lg form-control" id="email" name="email" placeholder="mike@acme.com" required="" type="email">
+	      <input class="form-control" id="email" name="email" placeholder="mike@acme.com" required="" type="email">
 	      <input type="hidden" name="source" value="Blog">
 	    </div>
-	    <button class="btn btn-primary btn-lg" id="submit-btn" type="submit">
+	    <button class="btn btn-default" id="submit-btn" type="submit">
 	      <span class="glyphicon glyphicon-envelope"></span> Stay informed!</button>
 	  </form>
         </div><!-- /.navbar-collapse -->
