@@ -59,7 +59,7 @@ We'll let you know here and on the mailing list when a prototype is
 ready. Until then, feel free to tell us what feature you'd like on a
 BACnet tablet!
 
-<form action="https://hvac.io/newsletter" class="form-inline" method="POST" role="form">
+<form action="https://hvac.io/newsletter" class="form-inline text-center" method="POST" role="form">
 	<div class="form-group">
 	    <input class="form-control" id="email" name="email" placeholder="mike@acme.com" required="" type="email">
 			<input type="hidden" name="source" value="Blog">
