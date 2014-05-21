@@ -10,7 +10,7 @@ tags: [bacnet tablet wacnet]
 
 We decided right of the bat to make the open source
 [Wacnet](https://hvac.io/docs/wacnet) run on the JVM. While it might
-have looked like it was going to bound us only to powerful computers,
+have looked like it was going to chain us to powerful computers only,
 we knew what we were doing. The trend was already quite clear:
 processing power getting cheaper every day.
 
@@ -19,7 +19,7 @@ seem prohibitively expensive, but knowing that in 18 months they'll be
 twice as cheap.
 
 We dabbled into some architectures a little different from your
-classic PC by running Wacnet the Raspberry Pi and the MK802. The
+classic PC by running Wacnet on the Raspberry Pi and the MK802. The
 process was surprisingly straightforward: find a compatible linux
 distro (that's the hardest part), install the correct JVM and tada!
 You can now run the BACnet Webserver directly on these miniature
