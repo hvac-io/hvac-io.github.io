@@ -13,8 +13,9 @@ out that at least 2 of them sent us fake products.
 
 They marketed them as the awesome *MK802 Allwinner A10*, which we know
 and love, because it runs [Wacnet](https://hvac.io/docs/wacnet) very
-well. However, upon reception of the product, nothing worked. Programs
-copied into the device, powered on... but the screen remains blank.
+well. However, upon reception of the product, nothing worked. We
+copied the programs into the devices, powered them on... but the
+screens remained blank.
 
 It took us a while to discover that those *are fake products*. Perhaps
 they think that as long as the average consumer doesn't notice, it's
@@ -28,7 +29,7 @@ different system**. I can't stress this enough. It's as if you went
 and bought a Pathfinder, but received a Versa instead. Those are not
 the same car!
 
-Lift the veil, and you'll see the difference. Here are pictures of
+Lift the veil and you'll see the difference. Here are pictures of
 these systems without their plastic enclosures.
 
 One side:
