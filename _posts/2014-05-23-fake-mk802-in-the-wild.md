@@ -43,5 +43,5 @@ The other side:
 ![Allwinner A10s side 2](/images/A10s-side2.JPG "A10s side 2")
 
 If you intend to buy these devices, be careful. There is no way to
-differentiate between the genuine products from the fakes simply by
+differentiate between the genuine products and the fakes simply by
 looking at their enclosures.
