@@ -64,8 +64,8 @@ button besides the object name and you'll see a graph pop out:
 ## Tell Us What You Want!
 We hope you'll like all these new features.
 
-While we can try to guess other users want by solving our own needs,
-this can only take us so far. If there's a feature you'd like to see
-added, please tell us!
+While we can try to guess what other users want by solving our own
+needs, this can only take us so far. If there's a feature you'd like
+to see added, please tell us!
 
 Cheers!
