@@ -43,7 +43,7 @@ if you don't like our interface, you can make your own!
 If you are more on the technical side, you can also make shell scripts
 to retrieve limited information.
 
-## Trend Log Downloads
+## Trend Logs Download
 We also added the ability to download BACnet trend logs directly to
 CSV files by simply clicking on the download button.
 
