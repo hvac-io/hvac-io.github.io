@@ -14,7 +14,7 @@ version of Wacnet should see the light of day pretty soon.
 
 ## Bug fixes
 
-There's many little code improvement and some bug fixes.
+There's many little code improvements and some bug fixes.
 
 Speaking of bugs, the guys at Schouten Techniek discovered one when
 devices used proprietary engineering units. This is now fixed and will
