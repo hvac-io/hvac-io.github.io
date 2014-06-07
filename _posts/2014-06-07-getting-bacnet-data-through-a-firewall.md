@@ -62,7 +62,7 @@ after-thought.
 
 By the way, some people directly expose their BACnet port (47808) to
 the Internet. **DON'T DO IT!** I exposed mine a few days ago to see if
-a fish would come up. Within 3 hours someone was fursiously sending
+a fish would come up. Within 3 hours someone was furiously sending
 BACnet packets to it. An attempted
 [buffer overflow](http://en.wikipedia.org/wiki/Buffer_overflow)?
 
