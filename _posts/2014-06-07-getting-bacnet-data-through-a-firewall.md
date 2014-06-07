@@ -9,7 +9,7 @@ tags: []
 {% include JB/setup %}
 
 
-One of the network components often out of the reach of the controls
+One of the network components often out of the reach of the control
 technician is the firewall. While one can easily build a BACnet
 network without any interaction with the IT department, the firewall
 is another story. It prevents communication with the outside world,
