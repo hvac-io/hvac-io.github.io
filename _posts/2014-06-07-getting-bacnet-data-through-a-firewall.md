@@ -87,7 +87,7 @@ That's right, we play with the rules of the firewall. We explained
 earlier how the communication from the inside can go through without
 any interference. That's the behavior we leverage.
 
-We install a software [Wacnet](https://hvac.io/docs/wacnet), or even
+We install [Wacnet](https://hvac.io/docs/wacnet), or even
 simpler, plug in the [MicroB](https://hvac.io/products/microb), and
 let them send us the required data.
 
