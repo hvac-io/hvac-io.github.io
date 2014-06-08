@@ -4,7 +4,7 @@ title: "Getting BACnet Data Through a Firewall"
 author: CF
 description: ""
 category: 
-tags: []
+tags: [bacnet, security]
 ---
 {% include JB/setup %}
 
@@ -57,8 +57,7 @@ The control network is the mother of all backdoors. Nobody thinks
 about it, but it's there and have all the network capabilities a
 hacker could hope for. Sure, BACnet devices shouldn't let me access
 the network like this, but devices can be hacked. Especially devices
-built from the ground up where security is an
-after-thought.
+built from the ground up where security is an after-thought.
 
 By the way, some people directly expose their BACnet port (47808) to
 the Internet. **DON'T DO IT!** I exposed mine a few days ago to see if
