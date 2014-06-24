@@ -90,6 +90,8 @@ We install [Wacnet](https://hvac.io/docs/wacnet), or even
 simpler, plug in the [MicroB](https://hvac.io/products/microb), and
 let them send us the required data.
 
+![Sending data from inside the network](/images/HVAC_illos_v2b_AS-02-low-rez.svg "Sending data from inside the network")
+
 The connection between the logging device and our servers are always
 initiated from within. In fact, for those concerned about security,
 *it's impossible for us to connect to our logging device from outside
