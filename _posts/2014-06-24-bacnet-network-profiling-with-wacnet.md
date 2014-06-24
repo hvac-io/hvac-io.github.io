@@ -13,6 +13,9 @@ access to a complete programming environment. I suppose this shouldn't
 be surprising, as learning a new language is always a time consuming
 endeavour.
 
+In case you don't know where the REPL is, it's in the REPL section of
+Wacnet:
+
 ![Wacnet REPL](/images/wacnet-repl.png "Wacnet REPL")
 
 However, one can easily share little snippets to be used in the REPL.
