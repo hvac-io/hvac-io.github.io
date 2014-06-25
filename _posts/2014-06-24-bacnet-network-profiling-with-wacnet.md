@@ -21,7 +21,7 @@ Wacnet:
 While learning from scratch is probably not possible for everyone, one
 can easily share little snippets to be used in the REPL. Just like an
 Excel macro or an AutoCAD script, you don't have to be able to write
-it.
+it yourself.
 
 
 The following code will export a text file containing a rudimentary
