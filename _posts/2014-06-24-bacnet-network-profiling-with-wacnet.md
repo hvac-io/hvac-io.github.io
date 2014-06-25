@@ -4,7 +4,7 @@ title: "BACnet Network Profiling with Wacnet"
 author: CF
 description: ""
 category: 
-tags: []
+tags: [bacnet, wacnet]
 ---
 {% include JB/setup %}
 
