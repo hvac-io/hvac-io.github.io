@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HVAC.IO Blog
+title: HVAC.IO's Blog
 tagline: 
 ---
 {% include JB/setup %}
