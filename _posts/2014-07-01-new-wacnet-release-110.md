@@ -44,11 +44,10 @@ need:
 
 ![Details popup](/images/wacnet-1.1.0-release-details-btn2.png "Details popup")
 
+## Quick Search
 
-
-We made the UI nearly identical to
-[Vigilia](https://hvac.io/services/vigilia)'s, which will be more
-convenient for users of both.
+You know what object you want? Start typing its name in the search box
+and it will eliminate all objects that don't match.
 
 ![Wacnet UI](/images/wacnet-1.1.0-preview1.png "Wacnet UI")
 
@@ -79,7 +78,7 @@ to retrieve limited information.
 
 ## Vigilia Integration
 
-Finally, we've integrated Vigilia (the data logging service)
+Finally, we've integrated [Vigilia](https://hvac.io/services/vigilia)
 into Wacnet.
 
 If you are subscribed, you will have the ability to directly
@@ -90,6 +89,8 @@ button besides the object name and you'll see a graph pop out:
 
 ![Vigilia button](/images/wacnet-1.1.0-release-vigilia-btn2.png "Vigilia button")
 
+We also made the UI nearly identical to Vigilia's, which will be more
+convenient for users of both.
 
 ## Moving forward
 
