@@ -28,6 +28,7 @@ The new UI shows more information. In fact, all the objects 'basic'
 info can be seen directly by selecting a device.
 
 We show:
+
 - The object name
 - The description
 - It's current value
