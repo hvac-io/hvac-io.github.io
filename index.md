@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HVAC.IO Blog
-tagline: HVAC for breakfast
+tagline: 
 ---
 {% include JB/setup %}
 
