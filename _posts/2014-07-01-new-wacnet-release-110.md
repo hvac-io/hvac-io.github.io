@@ -49,8 +49,6 @@ need:
 You know what object you want? Start typing its name in the search box
 and it will eliminate all objects that don't match.
 
-![Wacnet UI](/images/wacnet-1.1.0-preview1.png "Wacnet UI")
-
 ![Wacnet Filtering Box](/images/wacnet-1.1.0-preview2.png "Wacnet Filtering Box")
 
 
