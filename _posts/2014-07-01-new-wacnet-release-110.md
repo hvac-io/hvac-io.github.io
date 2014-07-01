@@ -89,9 +89,6 @@ button besides the object name and you'll see a graph pop out:
 
 ![Vigilia button](/images/wacnet-1.1.0-release-vigilia-btn2.png "Vigilia button")
 
-We also made the UI nearly identical to Vigilia's, which will be more
-convenient for users of both.
-
 ## Moving forward
 
 As usual, if you need some new features, tell us and we'll take them
