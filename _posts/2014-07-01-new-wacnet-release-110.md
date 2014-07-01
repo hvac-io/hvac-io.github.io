@@ -16,7 +16,7 @@ You can download it here:
 [Download Wacnet](https://hvac.io/docs/wacnet)
 
 
-<video autoplay='autoplay' class='well' controls='true' loop='true' width='100%'><source src='/videos/wacnet-1.1.0.webm' type='video/webm'><source src='/videos/wacnet-1.1.0.ogv' type='video/ogg'><source src='/videos/wacnet-1.1.0.mp4' type='video/mp4'><img src='/images/wacnet-1.1.0.gif' alt='BACnet Explorer demo"></img></video>
+<video autoplay='autoplay' class='well' controls='true' loop='true' width='100%'><source src='/videos/wacnet-1.1.0.webm' type='video/webm'><source src='/videos/wacnet-1.1.0.ogv' type='video/ogg'><source src='/videos/wacnet-1.1.0.mp4' type='video/mp4'><img src='/images/wacnet-1.1.0.gif' alt='BACnet Explorer demo'></img></video>
 	
 
 ## New UI
