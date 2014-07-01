@@ -16,7 +16,7 @@ You can download it here:
 [Download Wacnet](https://hvac.io/docs/wacnet)
 
 
-<div><video autoplay='autoplay' class='well' controls='true' loop='true' width='100%'><source src='/videos/wacnet-1.1.0.webm' type='video/webm'><source src='/videos/wacnet-1.1.0.ogv' type='video/ogg'><source src='/videos/wacnet-1.1.0.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div>
+<video autoplay='autoplay' class='well' controls='true' loop='true' width='100%'><source src='/videos/wacnet-1.1.0.webm' type='video/webm'><source src='/videos/wacnet-1.1.0.ogv' type='video/ogg'><source src='/videos/wacnet-1.1.0.mp4' type='video/mp4'><img src='/images/wacnet-1.1.0.gif' alt='BACnet Explorer demo"></img></video>
 	
 
 ## New UI
@@ -46,8 +46,9 @@ need:
 
 
 
-We made the UI nearly identical than Vigilia (the data
-logging service), which will be more convenient for users of both.
+We made the UI nearly identical to
+[Vigilia](https://hvac.io/services/vigilia)'s, which will be more
+convenient for users of both.
 
 ![Wacnet UI](/images/wacnet-1.1.0-preview1.png "Wacnet UI")
 
