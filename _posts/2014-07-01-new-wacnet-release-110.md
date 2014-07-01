@@ -44,7 +44,7 @@ need:
 
 ![Details popup](/images/wacnet-1.1.0-release-details-btn2.png "Details popup")
 
-## Quick Search
+## Filtering
 
 You know what object you want? Start typing its name in the search box
 and it will eliminate all objects that don't match.
