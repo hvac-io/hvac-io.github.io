@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting BACnet Data Through a Firewall"
+title: "Getting BACnet Data Through a Firewall (Traversal)"
 author: CF
 description: ""
 category: 
