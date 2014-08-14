@@ -47,10 +47,11 @@ new project.
 
 ![Project Copied](/images/copy-archive-2.png "Project Copied")
 
+
 ## Archiving
-In addition, when we say copy, we mean it. There's no link between the
-data of the 2 projects. This means that even if you delete one of
-them, the other will remain exactly as is.
+
+There's no link between the data of the 2 projects. This means that
+even if you delete one of them, the other will remain exactly as is.
 
 Unless you configure the copy to receive logs from our logging
 software, it will remain unchanged forever.
