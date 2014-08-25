@@ -114,7 +114,7 @@ simply made it easy, and the web is a better place for it.
    not! To see the video, click <a
    href='/videos/analysis.webm'>here</a>.</video>
   
-  <iframe allowfullscreen height="500px" mozallowfullscreen scrolling="no" src="https://hvac.io/vigilia/embed/g/5371147be4b0222b740851a2?tab=%3Atimeseries&amp;bc%5B%5D=%3Aa10122..0.7..0.2..4.1" style="overflow:hidden; border:1px solid grey;border-radius:5px;background-size: cover;" webkitallowfullscreen width="100%"></iframe>
+  <!-- <iframe allowfullscreen height="500px" mozallowfullscreen scrolling="no" src="https://hvac.io/vigilia/embed/g/5371147be4b0222b740851a2?tab=%3Atimeseries&amp;bc%5B%5D=%3Aa10122..0.7..0.2..4.1" style="overflow:hidden; border:1px solid grey;border-radius:5px;background-size: cover;" webkitallowfullscreen width="100%"></iframe> -->
 
 # Shaping the industry
   Did we achieve the necessary 'ease of use' to trigger the shift in
