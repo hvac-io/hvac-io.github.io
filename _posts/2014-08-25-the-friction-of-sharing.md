@@ -37,6 +37,7 @@ Here are some of the ways one could share a video:
   physics, if the friction is too great, the motion won't occur.
   
 This pattern occurs again and again, with every kind of web services:
+
 - Sharing videos? Youtube
 - Sharing images? Imgur
 - Sharing files? Dropbox
