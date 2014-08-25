@@ -87,9 +87,9 @@ simply made it easy, and the web is a better place for it.
   to anyone. No login, no password. Copy and paste the URL, that's
   all.
 
-![sharing via email](hvacio-email-share.png "sharing logs via email")
+![sharing via email](images/hvacio-email-share.png "sharing logs via email")
 
-![sharing HVAC graphics](HVAC_illos_v2b_AS-04.svg "sharing HVAC graphics")
+![sharing HVAC graphics](images/HVAC_illos_v2b_AS-04.svg "sharing HVAC graphics")
 
 ## No installation
   We've made sure that no installation was required. Everything is
@@ -98,7 +98,7 @@ simply made it easy, and the web is a better place for it.
   
   Ever needed to check a system behaviour while on the field?
 
-![HVAC logs anywhere](HVAC_illos_v2b_AS-03.svg "HVAC logs anywhere!")
+![HVAC logs anywhere](images/HVAC_illos_v2b_AS-03.svg "HVAC logs anywhere!")
 
 ## Instant Graphical Feedback
    No special software knowledge should be necessary to analyze an
