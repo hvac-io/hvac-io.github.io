@@ -8,6 +8,8 @@ tags: [Vigilia]
 ---
 {% include JB/setup %}
 
+![sharing HVAC graphics](/images/HVAC_illos_v2b_AS-04.svg "sharing HVAC graphics")
+
 The web is a fascinating place. One of the most interesting behaviour
 we can see is how various activities can be possible for years, but
 only really become widespread once they are *easy* enough.
@@ -88,8 +90,6 @@ simply made it easy, and the web is a better place for it.
   all.
 
 ![sharing via email](/images/hvacio-email-share.png "sharing logs via email")
-
-![sharing HVAC graphics](/images/HVAC_illos_v2b_AS-04.svg "sharing HVAC graphics")
 
 ## No installation
   We've made sure that no installation was required. Everything is
