@@ -40,7 +40,8 @@ plug-and-play.
 # Bringing the Internet
 
 Okay, so let's first check how you would usually connect a computer
-(or a mini computer) to your controls network when it has Internet:
+(or a mini computer) to your controls network when it has an Internet
+access:
 
 ![Vigilia wiring combined network](/images/network-combined.png "Combined networks")
 
