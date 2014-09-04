@@ -21,8 +21,9 @@ Knowing this, it's not really a surprise to see this kind of
 configuration in the wild, especially with universities, hospitals and
 large factories.
 
-But wait, does this mean Vigilia is completely useless for them and we
-can't use it exactly where it would be incredibly useful?
+But wait, does this mean [Vigilia](https://hvac.io/services/vigilia)
+is completely useless for them and we can't use it exactly where it
+would be incredibly useful?
 
 (Dramatic pause)
 
