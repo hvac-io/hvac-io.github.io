@@ -8,7 +8,7 @@ tags: [Wacnet, Bacnet]
 ---
 {% include JB/setup %}
 
-![SD card](images/SD-card.jpg)
+![SD card](/images/SD-card.jpg)
 
 We've just prepared a Ubuntu 12.04.4 and Wacnet 1.1.2 image and decided to make it
 available to everyone, for free.
@@ -17,7 +17,7 @@ Here's the download link:
 https://drive.google.com/file/d/0B2TVfibKf7NGTU96QktDbS1qeFk
 
 This SD card image (8GB) is to be used with the MK802iv miniature PC:
-![MK802iv (image from liliputing.com)](images/mk802-iv-le_02.jpg)
+![MK802iv (image from liliputing.com)](/images/mk802-iv-le_02.jpg)
 
 If you need admin power:
 User: hvacio
