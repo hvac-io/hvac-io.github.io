@@ -87,6 +87,5 @@ a monitor to the device and make sure it boots into Ubuntu, *not*
 Android.
 
 
-If it does, congratulation!
-
-You now have your own BACnet webserver that you can hold in your hand!
+If it does, congratulation, you now have your own BACnet webserver
+that you can hold in your hand!
