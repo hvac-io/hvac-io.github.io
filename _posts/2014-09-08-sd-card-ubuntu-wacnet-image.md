@@ -32,7 +32,7 @@ devices.
 # Automatic Wacnet launch
 
 Wacnet is programmed to be launched as soon as the mini PC is plugged
-into a power outlet.
+into a power plug.
 
 After a few seconds, you can go to http://*the-mini-pc-IP*:47800 and
 see the same web interface you would see if you launched Wacnet on
