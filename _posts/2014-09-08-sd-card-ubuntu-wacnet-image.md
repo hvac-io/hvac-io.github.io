@@ -14,7 +14,7 @@ We've just prepared a Ubuntu 12.04.4 and Wacnet 1.1.2 image and decided to make 
 available to everyone, for free.
 
 Here's the download link:
-[mk802iv Wacnet image](https://drive.google.com/file/d/0B2TVfibKf7NGTU96QktDbS1qeFk)
+[MK802iv Wacnet image](https://drive.google.com/file/d/0B2TVfibKf7NGTU96QktDbS1qeFk)
 
 This SD card image (8GB) is to be used with the MK802iv miniature PC:
 ![MK802iv (image from liliputing.com)](/images/mk802-iv-le_02.jpg)
@@ -41,9 +41,6 @@ your own machine.
 
 <video autoplay='autoplay' class='well' controls='true' loop='true' width='100%'><source src='/videos/wacnet-1.1.0.webm' type='video/webm'><source src='/videos/wacnet-1.1.0.ogv' type='video/ogg'><source src='/videos/wacnet-1.1.0.mp4' type='video/mp4'>Your browser doesn't let you see the video... fear not! To see the BACnet Explorer video, click <a href='/videos/wacnet-1.1.0.webm'>here</a>.</video>
 
-Your own BACnet webserver that you can hold in your own hand!
-
-<i class="fa fa-smile-o"></i>
 
 
 # SSH (mostly) Disabled
@@ -75,7 +72,7 @@ whatever is your SD card... probably `/dev/sdb`):
 
 	sudo dd bs=4M if=mk802iv.img of=/dev/sdc
 
-On Windows, you can download DD for windows
+On Windows, you can download DD for Windows
 [here](http://www.chrysocome.net/download), or
 [Win32DiskImager](http://sourceforge.net/projects/win32diskimager/).
 Please note that we haven't tested any of those, but they appear to be
@@ -90,3 +87,6 @@ a monitor to the device and make sure it boots into Ubuntu, *not*
 Android.
 
 
+If it does, congratulation!
+
+You now have your own BACnet webserver that you can hold in your hand!
