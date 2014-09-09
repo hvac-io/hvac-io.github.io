@@ -14,14 +14,15 @@ We've just prepared a Ubuntu 12.04.4 and Wacnet 1.1.2 image and decided to make 
 available to everyone, for free.
 
 Here's the download link:
-https://drive.google.com/file/d/0B2TVfibKf7NGTU96QktDbS1qeFk
+[mk802iv Wacnet image](https://drive.google.com/file/d/0B2TVfibKf7NGTU96QktDbS1qeFk)
 
 This SD card image (8GB) is to be used with the MK802iv miniature PC:
 ![MK802iv (image from liliputing.com)](/images/mk802-iv-le_02.jpg)
 
 If you need admin power:
-User: hvacio
-Password: hvacio
+
+- User: hvacio
+- Password: hvacio
 
 The PC will announce itself as **HVAC** on the LAN, which makes it
 easy to find by looking on a router at the list of all connected
@@ -65,9 +66,9 @@ don't like the idea of us being able to connect to the device.)
 
 # SD Preparation
 
-1. Extract the compressed image (compressed in the 7z format, you
-   might have to download an application to decompress it.)
-2. Copy the image `mk802iv.img` to an SD card (minimum 8GB)
+1. Extract the compressed image (In the 7z format; you
+   might have to download an application to decompress it);
+2. Copy the image `mk802iv.img` to an SD card (minimum 8GB),
    
 On linux, you can use this command (just replace `/dev/sdc/` by
 whatever is your SD card... probably `/dev/sdb`):
