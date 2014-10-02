@@ -19,7 +19,7 @@ This version fixes a little bug that prevented the summary table to
 show the objects unit.
 
 
-## Video Tutorial
+## Video Tutorials
 
 I've also taken the time to make a few short videos showing how to
 start and configure Wacnet.
