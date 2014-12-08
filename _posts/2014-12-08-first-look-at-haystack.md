@@ -290,10 +290,13 @@ your own application, don't burden the standard with it.
 This is from their units documentation page:
 
 > Pressure:
->
+
 >kilopascal, kPa
+
 >pounds_per_square_inch, psi
+
 >inches_of_water, inH₂O
+
 >inches_of_mercury, inHg
 
 There's only 1 of those that makes sense; all the other should be
@@ -317,8 +320,11 @@ it also specifies it's for VFD. Anything else that could use the tag
 Now take a look at this:
 
 >-- temperature differential --
+
 >fahrenheit_degrees,Δ°F
+
 >celsius_degrees,Δ°C
+
 >kelvin_degrees,ΔK
 
 There's a unit for temperature differential?! That's not even a
@@ -342,10 +348,15 @@ Here's some of the currencies available in the units database,
 with some 3 letters code and their symbol.
 
 >australian_dollar, AUD
+
 >british_pound, GBP, £
+
 >canadian_dollar, CAD
+
 >chinese_yuan, CNY, 元
+
 >euro, EUR, €
+
 >us_dollar, USD, $
 
 Where are those 3 letters codes coming from?
@@ -380,22 +391,34 @@ useless or duplicate data.
 Let's take a look at an example given in the Haystack docs:
 
 >id: @whitehouse
+
 >dis: "White House"
+
 >site
+
 >area: 55000ft²
+
 >tz: "New_York"
+
 >weatherRef: @weather.washington
+
 >geoAddr: "1600 Pennsylvania Avenue NW, Washington, DC"
+
 >geoStreet: "1600 Pennsylvania Ave NW"
+
 >geoCity: "Washington D.C."
+
 >geoCountry: "US"
+
 >geoPostalCode: "20500"
+
 >geoCoord: C(38.898, -77.037)"
 
 The essential information:
 - GeoCoord
 
 The redundant information:
+
 - tz
 - geoAddr
 - geoStreet
@@ -418,10 +441,10 @@ and historical data.)
 ## Point Min/Max
 
 >The following tags may be used to define a minimum and/or maximum for the point:
->
+
 >minVal: minimum point value 
->maxVal: maximum point value 
->
+>maxVal: maximum point value
+
 >When these tags are applied to a sensor point, they model the range of
 >values the sensor can read and report. Values outside of these range
 >might indicate a fault condition in the sensor.
@@ -459,7 +482,7 @@ without the need to 'purchase' the specs. (I'm looking at you ASHRAE.
 Haystack doesn't claim to be 'open' and then stick a copyright stamp
 on themselves...)
 
-![Haystack Forum](Project-Haystack.png)
+![Haystack Forum](/images/Project-Haystack.png)
 
 For a new hacker, Haystack is probably much less overwhelming and
 easier to approach.
