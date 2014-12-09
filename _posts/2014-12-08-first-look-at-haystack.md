@@ -107,6 +107,9 @@ Here again, words have a slightly different meaning.
 
 In other words, a *kind* is a data type.
 
+
+***
+
 I will now comment on a few *kinds* (types) for which I think
 additional thought is required:
 
