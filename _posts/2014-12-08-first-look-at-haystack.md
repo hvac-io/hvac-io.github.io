@@ -15,7 +15,7 @@ circles and decided it was time for a little exploration.
 Little did I know how weird it would be...
 
 
-# First contact
+## First contact
 
 ![Project Haystack](/images/Project-Haystack.png)
 
@@ -51,17 +51,17 @@ and unwelcoming. Rather than being drawn to your standard for its
 wisdom, people might try to avoid it completely because of its
 bureaucracy.
 
-Nevertheless, chance (and experience) could be on their side and
-they *might* achieve both of these goals at the same time.
+Nevertheless, chance (and experience) could be on their side and they
+*might* achieve both of these goals at the same time.
 
-And yet, I must say I was not impressed by what I saw. if haystack was
+And yet, I must say I was not impressed by what I saw. If haystack was
 designed 30 years ago, I could understand most of its choices. But
 considering it wants to deal with the Internet of Things, it should
 rather be focused on the next 50 years.
 
 Here are some of my thoughts on Project Haystack.
 
-# Tags System (Which Are Not Tags)
+## Tags System (Which Are Not Tags)
   
 Haystack can look a little weird at first, but it's mostly because
 they use the term *tag* where people would usually use *property*.
@@ -83,7 +83,7 @@ values. Here are a few examples:
 - **sunrise** : Boolean point associated with a weather station for historizing sunrise and sunset times.
 - **rooftop** : Used with ahu to mark an AHU as a packaged rooftop unit (RTU).
  
-What quickly becomes clear when you read throught the tags list, is
+What quickly becomes clear when you read through the tags list, is
 that this isn't a project for the *Internet of Things*, but rather a
 project for the things that happens to be used in the HVAC world,
 which is a really, really, REALLY small subsets of all the things.
@@ -99,7 +99,7 @@ means that if your standard doesn't even consider them, the tools and
 ecosystem developed won't be for your standard.
 
   
-## Tag Kinds
+### Tag Kinds
 
 Here again, words have a slightly different meaning.
 
@@ -111,7 +111,7 @@ I will now comment on a few *kinds* (types) for which I think
 additional thought is required:
 
 
-### Marker
+#### Marker
 
 > The tag is merely a marker annotation and has no meaningful value.
 > Marker tags are used to indicate a "type" or "is-a" relationship.
@@ -121,7 +121,7 @@ what happens when you start using words without sticking with
 their meaning: you end up having to come up with other words for
 the meaning you just threw away.
 
-### Number
+#### Number
 > Number: integer or floating point number annotated with an optional unit of measurement.
 
 Are the integer/floating point interchangeable? If I receive a value
@@ -139,7 +139,7 @@ to deal with floating point numbers!
 Again, we should have the next 50 years in sight when designing the
 standard.
 
-### Str (because string was too long?)
+#### Str (because string was too long?)
 > Str: a string of Unicode characters.
 
 Unicode is great!
@@ -148,7 +148,7 @@ Does the encoding matter? If I send you a UTF-16 encoded text instead
 of UTF-8, is it okay?
 
 
-### Ref
+#### Ref
 
 > Ref: reference to another entity. Haystack doesn't prescribe a
 > specific identity or reference mechanism, but they should be some
@@ -173,7 +173,7 @@ that would be compatible with his own code.
 
 
 
-### Coord
+#### Coord
 
 > Coord: geographic coordinate in latitude/longitude formatted as C(lat,lng)
 
@@ -186,7 +186,7 @@ near future. Planning for that is nice!
 Tho I would be a little happier with an elevation.
 
 
-### Time stuff
+#### Time stuff
 > Date: an ISO 8601 date as year, month, day: 2011-06-07.
 
 > Time: an ISO 8601 time as hour, minute, seconds: 09:51:27.354.
@@ -216,7 +216,7 @@ timeseries recorded with ISO 8601 are already, at the recording
 time, being formatted to correctly represent the legal hour at the
 instant.
 
-## Tag Names
+### Tag Names
 
 > Tag names are restricted to the following characters: (...)
 
@@ -247,7 +247,7 @@ Unicode in programming languages is not a problem anymore.
 Perl, Python, Java, .NET, Go, Javascript and even Scheme and Common
 Lisp support unicode.
 
-# Id
+## Id
 
 > The id tag is used model the unique identifier of an entity in
 > system using a Ref value type. The scope of an entity is undefined,
@@ -269,7 +269,7 @@ something. If you intend to touch the Internet *in any way*, make sure
 it's a worldwide identifier.
 
 
-# Units
+## Units
 
 Haystack says that each numeric point must come with a unit for the
 standard unit database. So far, so good.
@@ -277,8 +277,8 @@ standard unit database. So far, so good.
 But it immediately goes downhill from there:
 Units can be SI (obviously) or US/imperial.
 
-Seriously, what-the-fuck?. You don't start to design a standard for
-the next 50 years by including anything else than SI. (There's only 3
+Seriously, what-the-fuck? You don't start to design a standard for the
+next 50 years by including anything else than SI. (There's only 3
 countries left that aren't on SI, you can see them on this
 [map](http://en.wikipedia.org/wiki/Metric_system#mediaviewer/File:Metric_system_adoption_map.svg).)
 
@@ -299,7 +299,7 @@ This is from their units documentation page:
 
 >inches_of_mercury, inHg
 
-There's only 1 of those that makes sense; all the other should be
+There's only 1 of those required; all the others should be
 derived from it.
 
 ***
@@ -333,7 +333,7 @@ unit! 10°C - 5°C is *still* in °C.
 
 This is scary stuff.
 
-## Money
+### Money
     
 Interestingly, the currencies are included in the units. One could
 wonder why... they don't really represent anything physical. It's not
@@ -383,7 +383,7 @@ with money if you are using floating point numbers!
 
 
 
-# Bloating
+## Bloating
 
 Haystack is supposed to be brand new, but it's already bloated with
 useless or duplicate data.
@@ -438,7 +438,7 @@ in any kind of logs. (You'd have to update them by using timestamps
 and historical data.)
 
 
-## Point Min/Max
+### Point Min/Max
 
 >The following tags may be used to define a minimum and/or maximum for the point:
 
@@ -454,7 +454,7 @@ Which means that for each data point you get, you then have to check
 would be much more efficient and less prone to error to simply send
 back an error value.
 
-# Final Thoughts
+## Final Thoughts
 
 What I just talked about are the most obvious flaws I saw while
 reading the Haystack documentation.
@@ -482,7 +482,7 @@ without the need to 'purchase' the specs. (I'm looking at you ASHRAE.
 Haystack doesn't claim to be 'open' and then stick a copyright stamp
 on themselves...)
 
-![Haystack Forum](/images/Project-Haystack.png)
+![Haystack Forum](/images/Haystack-forum.png)
 
 For a new hacker, Haystack is probably much less overwhelming and
 easier to approach.
