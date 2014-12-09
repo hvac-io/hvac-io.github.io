@@ -83,8 +83,8 @@ values. Here are a few examples:
 - **sunrise** : Boolean point associated with a weather station for historizing sunrise and sunset times.
 - **rooftop** : Used with ahu to mark an AHU as a packaged rooftop unit (RTU).
  
-What quickly becomes clear when you read through the tags list, is
-that this isn't a project for the *Internet of Things*, but rather a
+What quickly becomes clear when you read through the tags list is that
+this isn't a project for the *Internet of Things*, but rather a
 project for the things that happens to be used in the HVAC world,
 which is a really, really, REALLY small subsets of all the things.
 
