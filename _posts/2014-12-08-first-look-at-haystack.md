@@ -124,10 +124,6 @@ the meaning you just threw away.
 #### Number
 > Number: integer or floating point number annotated with an optional unit of measurement.
 
-Are the integer/floating point interchangeable? If I receive a value
-of 10, is it the same as 10.0? Will something break if I send you
-back 10.0?
-
 Why only those? Why no imaginary numbers? Why no ratios? Why no
 uncertainty?
 
