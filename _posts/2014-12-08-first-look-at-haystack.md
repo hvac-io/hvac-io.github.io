@@ -127,7 +127,7 @@ the meaning you just threw away.
 Why only those? Why no imaginary numbers? Why no ratios? Why no
 uncertainty?
 
-Especially considering that there's currencies unit (more on this
+Especially considering that there are currencies unit (more on this
 later), for which case you
 [absolutely](https://www.youtube.com/watch?v=PZRI1IfStY0) don't want
 to deal with floating point numbers!
