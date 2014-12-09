@@ -235,7 +235,7 @@ Why should it contain only ASCII letters, digits, or underscore?
 > Restricting tag names, ensures they may be easily used as
 > identifiers in programming languages and databases.
 
-This has the putrid stench of trying to make the standard fit a
+This looks like someone is trying to make the standard fit a
 particular existing codebase.
 
 You are making a *new* standard, at least make sure it's compatible
@@ -276,9 +276,9 @@ standard unit database. So far, so good.
 But it immediately goes downhill from there:
 Units can be SI (obviously) or US/imperial.
 
-Seriously, what-the-fuck? You don't start to design a standard for the
-next 50 years by including anything else than SI. (There's only 3
-countries left that aren't on SI, you can see them on this
+Seriously? You don't start to design a standard for the next 50 years
+by including anything else than SI. (There's only 3 countries left
+that aren't on SI, you can see them on this
 [map](http://en.wikipedia.org/wiki/Metric_system#mediaviewer/File:Metric_system_adoption_map.svg).)
 
 I sure hope there won't be more than one in the next 15 years.
