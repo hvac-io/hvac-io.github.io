@@ -51,7 +51,7 @@ and unwelcoming. Rather than being drawn to your standard for its
 wisdom, people might try to avoid it completely because of its
 bureaucracy.
 
-Besides all this, chances (and experience) might be on their side and
+Nevertheless, chance (and experience) could be on their side and
 they *might* achieve both of these goals at the same time.
 
 And yet, I must say I was not impressed by what I saw. if haystack was
