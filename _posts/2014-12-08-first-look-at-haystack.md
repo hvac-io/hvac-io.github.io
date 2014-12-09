@@ -156,7 +156,7 @@ So let me make this clear: Haystack wants to be a modern standard
 for the *Internet of Things*, but doesn't specify a reference
 mechanism? Wouldn't that be the *hard* part, the part where you need a standard?
 
-Even worse; it still manage to limits the reference to a *subset* of
+Even worse; it still manages to limit the reference to a *subset* of
 ASCII!
 
 It doesn't explain how it works, nor how it could be compatible with
