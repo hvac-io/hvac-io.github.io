@@ -54,10 +54,10 @@ bureaucracy.
 Nevertheless, chance (and experience) could be on their side and they
 *might* achieve both of these goals at the same time.
 
-And yet, I must say I was not impressed by what I saw. If haystack was
-designed 30 years ago, I could understand most of its choices. But
-considering it wants to deal with the Internet of Things, it should
-rather be focused on the next 50 years.
+And yet, I must say I was not impressed by what I saw. If haystack had
+been designed 30 years ago, I could have understood most of its
+choices. But considering it wants to deal with the Internet of Things,
+it should rather be focused on the next 50 years.
 
 Here are some of my thoughts on Project Haystack.
 
