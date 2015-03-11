@@ -14,7 +14,7 @@ At scale, every little detail is there to get you.
 In this post, we describe why and how we harmonize the timeseries
 before using them.
 
-# Timeseries Gotchas
+## Timeseries Gotchas
 
 When trying to analyze timeseries, there's few thing that one must
 be careful about. If you are dealing with big systems, chances are
@@ -28,7 +28,7 @@ you will encounter all of them at the same time.
 Each of these is a pain. They waste precious time and some can even
 cause programs to crash. How do you deal with that?
 
-# Harmonizing
+## Harmonizing
 
 For Vigilia, we decided to implement a special engine to
 automatically harmonize timeseries. Here's a simplified
@@ -39,7 +39,7 @@ representation of how it works:
 We take the source timeseries and find the closest values from a
 timestamp to generate the new harmonized timeseries.
 
-We make sure to discard any time with missing values (Nil, NaN&#x2026;)
+We make sure to discard any time with missing values (Nil, NaN&##x2026;)
 from communication errors or power failures. This means that any
 tool using our harmonized timeseries can be sure we will never send
 anything else than numbers.
@@ -47,7 +47,7 @@ anything else than numbers.
 We abstract away to low level dirty stuff and provide a crisp, clean
 timeseries simple to manipulate.
 
-# Representative Spread
+## Representative Spread
 
 Contrary to some simpler database queries, which return 'random'
 samples, our harmonized timeseries will automatically spread the
@@ -61,7 +61,7 @@ into the required time period.)
 
 ![img](/images/harmonized/harmonized-sampling.png)
 
-# Instant Access to Harmonized Timeseries
+## Instant Access to Harmonized Timeseries
 
 You don't need to use our API to get your hands on harmonized
 timeseries. You can simply take a look in the Analytics tabs. We
@@ -77,7 +77,7 @@ page to filter out unwanted data.
 
 ![img](/images/harmonized/harmonized-selection.png)
 
-# Building with Harmonized Timeseries
+## Building with Harmonized Timeseries
 
 Our harmonized timeseries engine makes it much easier to work with
 large quantity of data accumulated in real-world (messy, unreliable)
