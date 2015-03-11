@@ -32,13 +32,14 @@ before using them.
 When trying to analyze timeseries, there's few thing that one must
 be careful about. If you are dealing with big systems, chances are
 you will encounter all of them at the same time.
--   Different timestamps;
--   Different time intervals;
--   Irregular time intervals;
--   Missing values (communication error, power outage).
+
+- Different timestamps;
+- Different time intervals;
+- Irregular time intervals;
+- Missing values (communication error, power outage).
     
-    Each of these is a pain. They waste precious time and some can
-    even cause programs to crash. How do you deal with that?
+Each of these is a pain. They waste precious time and some can even
+cause programs to crash. How do you deal with that?
 
 # Harmonizing
 
