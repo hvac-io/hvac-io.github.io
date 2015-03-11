@@ -22,8 +22,6 @@ tags: [Vigilia]
 </div>
 
 
-(Or How to Deal with Years of Timeseries)
-
 At scale, every little detail is there to get you. 
 
 In this post, we describe why and how we harmonize the timeseries
@@ -48,7 +46,7 @@ For Vigilia, we decided to implement a special engine to
 automatically harmonize timeseries. Here's a simplified
 representation of how it works:
 
-![img](./images/harmonized/harmonized-opt.svg)
+![img](/images/harmonized/harmonized-opt.svg)
 
 We take the source timeseries and find the closest values from a
 timestamp to generate the new harmonized timeseries.
@@ -73,7 +71,7 @@ points.
 periods. Harmonized timeseries are created on-the-fly to fit
 into the required time period.)
 
-![img](./images/harmonized/harmonized-sampling.png)
+![img](/images/harmonized/harmonized-sampling.png)
 
 # Instant Access to Harmonized Timeseries
 
@@ -82,11 +80,11 @@ timeseries. You can simply take a look in the Analytics tabs. We
 already give you the timeseries in a convenient representation,
 ready to be exported in the formats of your choice.
 
-![img](./images/harmonized/harmonized-table.png)
+![img](/images/harmonized/harmonized-table.png)
 
 Furthermore, you can use the graphical selection tools on the same
 page to filter out unwanted data.
-![img](./images/harmonized/harmonized-selection.png)
+![img](/images/harmonized/harmonized-selection.png)
 
 # Building with Harmonized Timeseries
 
