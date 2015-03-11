@@ -39,7 +39,7 @@ representation of how it works:
 We take the source timeseries and find the closest values from a
 timestamp to generate the new harmonized timeseries.
 
-We make sure to discard any time with missing values (Nil, NaN&##x2026;)
+We make sure to discard any time with missing values (Nil, NaN&#x2026;)
 from communication errors or power failures. This means that any
 tool using our harmonized timeseries can be sure we will never send
 anything else than numbers.
