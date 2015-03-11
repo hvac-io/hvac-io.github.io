@@ -83,8 +83,11 @@ ready to be exported in the formats of your choice.
 
 ![img](/images/harmonized/harmonized-table.png)
 
+
 Furthermore, you can use the graphical selection tools on the same
 page to filter out unwanted data.
+
+
 ![img](/images/harmonized/harmonized-selection.png)
 
 # Building with Harmonized Timeseries
