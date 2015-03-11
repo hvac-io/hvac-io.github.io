@@ -8,19 +8,6 @@ tags: [Vigilia]
 ---
 {% include JB/setup %}
 
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">1. Timeseries Gotchas</a></li>
-<li><a href="#sec-2">2. Harmonizing</a></li>
-<li><a href="#sec-3">3. Representative Spread</a></li>
-<li><a href="#sec-4">4. Instant Access to Harmonized Timeseries</a></li>
-<li><a href="#sec-5">5. Building with Harmonized Timeseries</a></li>
-</ul>
-</div>
-</div>
-
 
 At scale, every little detail is there to get you. 
 
