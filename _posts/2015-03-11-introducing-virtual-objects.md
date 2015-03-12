@@ -34,7 +34,7 @@ consumption?
 If you catched the system early enough you could have created a
 variable (updated by the BAS programs) and then record it.
 
-    Power_analog_variable = (Temp-1 - Temp-2) * Flow
+    Power_analog_variable = (Temp-2 - Temp-1) * Flow
 
 There are 3 problems with this approach.
 
