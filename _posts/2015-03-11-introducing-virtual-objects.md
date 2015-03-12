@@ -71,7 +71,7 @@ timeseries, virtual objects are indistinguishable from real objects.
 This means that all the existing tools will work just as well with
 those brand new virtual objects!
 
-See this capture of our *Analysis* tabs. One of these objects is virtual:
+See this capture of our *Analytics* tabs. One of these objects is virtual:
 ![img](/images/harmonized/dimentional-virtual.png)
 
 The same object in the *Timeseries* tab (green line):
