@@ -51,7 +51,7 @@ was happening.
 Finding interesting things in a sea of data is all about making the
 tools work for you. While we knew the virtual objects were going to be
 powerful, this is the kind of thing that goes beyond our own
-expectation.
+expectations.
 
 If you have a system you'd like to try, go ahead! We offer 2 weeks of
 [free trial](https://hvac.io/services/vigilia/pricing).
