@@ -25,7 +25,7 @@ really tell WHEN most of them were active.
 
 This is were [virtual objects](http://blog.hvac.io/2015/03/11/introducing-virtual-objects/) save the day.
 
-You see, every stage is a binary value. On/off, or more precisely, 0
+You see, every stage is a binary value. On/off or, more precisely, 0
 or 1 in Vigilia's recorded data. This means that we can use binary
 values the same way we would use any other value (addition, multiplication...)
 
