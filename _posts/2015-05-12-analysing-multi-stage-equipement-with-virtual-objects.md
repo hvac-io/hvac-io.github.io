@@ -23,7 +23,7 @@ Here's what those stages look like in Vigilia's analysis tab:
 Sure, it's nice, you can see how each stage was used... but you can't
 really tell WHEN most of them were active.
 
-This is were virtual objects save the day.
+This is were [virtual objects](http://blog.hvac.io/2015/03/11/introducing-virtual-objects/) save the day.
 
 You see, every stage is a binary value. On/off, or more precisely, 0
 or 1 in Vigilia's recorded data. This means that we can use binary
