@@ -35,7 +35,7 @@ In this case, we take every single stage and add them up:
 
 
 When we look back into our analysis tab, here's what we get:
-![img](/images/multi-stage/stages-merged.png)
+![img](/images/multi-stage/stages-merged.png){: .well}
 
 
 
@@ -44,7 +44,7 @@ Much better, isn't it? Not only is it much easier on the eyes, but you
 can now select "when we had more than 5 stages active" and see WHEN it
 was happening.
 
-![img](/images/multi-stage/stages-merged-filter.png)
+![img](/images/multi-stage/stages-merged-filter.png){: .well}
 
 
 
