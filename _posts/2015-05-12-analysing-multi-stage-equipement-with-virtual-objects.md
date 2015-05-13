@@ -18,7 +18,7 @@ a total of 8 stages.
 
 Here's what those stages look like in Vigilia's analysis tab:
 
-![img](/images/multi-stage/individual-stages.png)
+![img](/images/multi-stage/individual-stages.png){: .well}
 
 Sure, it's nice, you can see how each stage was used... but you can't
 really tell WHEN most of them were active.
