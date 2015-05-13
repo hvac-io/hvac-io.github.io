@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analysing Multi stage Equipement with Virtual Objects"
+title: "Analysing Multi Stage Equipement with Virtual Objects"
 author: CF
 description: ""
 category: 
@@ -8,16 +8,15 @@ tags: [Vigilia]
 ---
 {% include JB/setup %}
 
-One kind of system which was always a little 'delicate' to study is
-the multi-stage system (especially with alternation). Unless those
-who programmed the system were kind enough to create easy-to-use
-variables, quickly finding out how many stages are active can be a
-pain.
+One kind of system that was always a little 'delicate' to study is the
+multi-stage system (especially with alternation). Unless those who
+programmed the system were kind enough to create easy-to-use
+variables, it's hard to quickly find out how many stages are active.
 
 We recently had a system with 4 heat pumps, each with 2 stages, making
 a total of 8 stages.
 
-Here's what those stages look like in Vigilia's analysis tab.
+Here's what those stages look like in Vigilia's analysis tab:
 
 ![img](/images/multi-stage/individual-stages.png)
 
@@ -34,14 +33,19 @@ In this case, we take every single stage and add them up:
 ![img](/images/multi-stage/virtual-object-creation.png)
 
 
+
 When we look back into our analysis tab, here's what we get:
 ![img](/images/multi-stage/stages-merged.png)
+
+
+
 
 Much better, isn't it? Not only is it much easier on the eyes, but you
 can now select "when we had more than 5 stages active" and see WHEN it
 was happening.
 
 ![img](/images/multi-stage/stages-merged-filter.png)
+
 
 
 Finding interesting things in a sea of data is all about making the
