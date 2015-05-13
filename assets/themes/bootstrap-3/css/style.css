@@ -33,7 +33,9 @@ pre {
 
 img {
     max-width: 100%;
-    margin: 2em;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
     }
 
 .post-container {
