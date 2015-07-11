@@ -4,7 +4,7 @@ title: "Launching HVAC Wiki"
 author: CF
 description: ""
 category: 
-tags: [bacnet, wiki]
+tags: [bacnet, wiki, hvac]
 ---
 {% include JB/setup %}
 
