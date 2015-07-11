@@ -36,8 +36,10 @@ anything you are looking for. It's all slowly learned by meeting
 senior professionals who can give you tips they learned the hard way.
 
 Documentations from vendors are often minimal, or even purposely
-lacking in critical information: "For the MetasysSysAgent default
-password, contact your local Johnson Controls® representative."
+lacking in critical information:
+
+> For the MetasysSysAgent default password, contact your local Johnson
+> Controls® representative.
 
 The small portion of knowledge available online is scattered all over
 the place in articles, PDFs, and remote forums, making sure that they
@@ -53,6 +55,7 @@ It's really simple: would that have helped you in one of your task? If
 the answer is yes, then you should add it!
 
 It can be **anything**:
+
 - Typical pipe dimension for a given task;
 - Preferred type of glue;
 - Controls tricks to deal with those pesky electric heaters;
@@ -72,6 +75,7 @@ version of Windows. Hopefully you'll find to a way to fix this. Well,
 this 'fix' is the kind of info HVAC wiki is for.
 
 ![Wisdom of the Ancients](http://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)
+
 Feels familiar?
 
 Don't worry about formatting. You, or anyone else, can always come
