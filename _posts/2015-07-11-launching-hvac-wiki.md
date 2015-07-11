@@ -63,7 +63,7 @@ It can be **anything**:
 
 We mean it: anything somewhat related to HVAC is welcome.
 
-### Leave notes for yourself!
+### Leave Notes for Yourself!
 
 I personally can't remember how many times I've gone through the pain
 of debugging a system, and say to myself "Bah, I'll never encounter
