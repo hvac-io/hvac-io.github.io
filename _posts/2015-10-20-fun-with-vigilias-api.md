@@ -144,7 +144,9 @@ Now we could just add this script to a cron job and execute it every
 hour. Instead of showing a message on the desktop, it could also send
 an email or an SMS. The only limit is your imagination at this point!
 
-It is important to note that the main Vigilia interface is built with
-this API. We don't keep secret resources to ourselves. If you can see
-some information in the Vigilia interface, then you know for sure it's
-available via the API and you can use it in your own applications.
+It is important to note that the main Vigilia
+[interface](https://vigilia.hvac.io/v/5371147be4b0222b740851a2?bc%5B%5D=%253Aa10122..0.7..0.2..4.1#/devices/10122)
+is built with this API. We don't keep secret resources to ourselves.
+If you can see some information in the Vigilia interface, then you
+know for sure it's available via the API and you can use it in your
+own applications.
