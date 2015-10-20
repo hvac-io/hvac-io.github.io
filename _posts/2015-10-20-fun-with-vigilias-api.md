@@ -37,7 +37,7 @@ project-id field and click "Try it out".
 
 You will see what data the API is sending back.
 
-[![Vigilia - HVAC-wiki](/images/vigilia-api/swagger.png)](/images/vigilia-api/swagger.png)
+[![Vigilia - HVAC-wiki](/images/vigilia-api/swagger2.png)](/images/vigilia-api/swagger2.png)
 
 It’s pretty neat, eh!
 
@@ -78,7 +78,7 @@ curl -H "Accept: application/json" https://vigilia.hvac.io/api/v1/project/537114
 
 This is the data we'll get:
 
-{% highlight Bash shell script %}
+{% highlight javascript %}
 {
   "project-id": "5371147be4b0222b740851a2",
   "device-id": "10122",
