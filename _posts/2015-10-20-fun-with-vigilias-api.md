@@ -72,13 +72,13 @@ has a temperature higher than 10°C.
 
 We can retrieve the JSON data using *curl*:
 
-{% highlight shell %}
+{% highlight Bash shell script %}
 curl -H "Accept: application/json" https://vigilia.hvac.io/api/v1/project/5371147be4b0222b740851a2/devices/10122/objects/0.2
 {% endhighlight %}
 
 This is the data we'll get:
 
-{% highlight shell %}
+{% highlight Bash shell script %}
 {
   "project-id": "5371147be4b0222b740851a2",
   "device-id": "10122",
@@ -106,16 +106,16 @@ This is the data we'll get:
 
 
 The data we received is in JSON. If you want to easily handle it in
-the shell, I recommend installing [JQ](https://stedolan.github.io/jq/):
+the Bash shell script, I recommend installing [JQ](https://stedolan.github.io/jq/):
 
-{% highlight shell %}
+{% highlight Bash shell script %}
 sudo apt-get install jq
 {% endhighlight %}
 
 Ok, back to our data. 
 We can get the present value of our object with the 'present-value' field:
 
-{% highlight shell %}
+{% highlight Bash shell script %}
 curl -H "Accept: application/json" https://vigilia.hvac.io/api/v1/project/5371147be4b0222b740851a2/devices/10122/objects/0.2 | jq '.["present-value"]'
 {% endhighlight %}
 
@@ -124,7 +124,7 @@ In this case we get the value `17.64428`.
 All that's left to do now is to compare it to our threshold and show a
 warning message if we are above it:
 
-{% highlight shell %}
+{% highlight Bash shell script %}
 pv=$(curl -H "Accept: application/json" https://vigilia.hvac.io/api/v1/project/5371147be4b0222b740851a2/devices/10122/objects/0.2 | jq '.["present-value"]'); if [[ $pv > 10 ]]; then notify-send "Present value is greater than 10!"; fi
 {% endhighlight %}
 
@@ -132,7 +132,7 @@ pv=$(curl -H "Accept: application/json" https://vigilia.hvac.io/api/v1/project/5
 
 We can even add a little icon to make everything a little more professional:
 
-{% highlight shell %}
+{% highlight Bash shell script %}
 pv=$(curl -H "Accept: application/json" https://vigilia.hvac.io/api/v1/project/5371147be4b0222b740851a2/devices/10122/objects/0.2 | jq '.["present-value"]'); if [[ $pv > 10 ]]; then notify-send -i ~/Vigilia-logo.png "Present value is greater than 10!"; fi
 {% endhighlight %}
 
