@@ -106,7 +106,7 @@ This is the data we'll get:
 
 
 The data we received is in JSON. If you want to easily handle it in
-the Bash shell script, I recommend installing [JQ](https://stedolan.github.io/jq/):
+the shell script, I recommend installing [JQ](https://stedolan.github.io/jq/):
 
 {% highlight Bash shell script %}
 sudo apt-get install jq
