@@ -58,7 +58,7 @@ something like this :
 
 
     Do Every 1 min
-    total-consumption = total-consumption + (109kW * 1/60) kWh
+    total-consumption = total-consumption + (109kW * 1/60)   ;;; consumption in kWh
 
 
 
