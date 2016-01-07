@@ -26,6 +26,9 @@ pre {
     overflow:auto;
     }
 
+p {
+    margin-bottom: 15px;
+    }
 
 #footer {
   background-color: #fdcd60;
@@ -36,16 +39,14 @@ img {
     }
 
 img + em {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
     }
 
 p > img {
     margin-left: auto;
     margin-right: auto;
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .post-container {
