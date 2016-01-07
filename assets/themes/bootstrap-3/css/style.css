@@ -38,9 +38,6 @@ img {
     max-width: 100%;
     }
 
-img + em {
-    text-align: center;
-    }
 
 p > img {
     margin-left: auto;

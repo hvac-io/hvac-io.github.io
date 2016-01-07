@@ -73,7 +73,6 @@ old backup into the controller, the totalization is lost.
 
 <!-- ![Loading backups messes totalization](/images/totalization/totalization-kill.png "Loading backups messes totalization") -->
 <img src="/images/totalization/totalization-kill.png" width="600" alt="Loading backups messes totalization" title="Loading backups messes totalization">
-*Be afraid, very afraid*
 
 You don't even have to load a backup to screw everything. Anyone with
 an access to the BACnet network is able to change those values.
