@@ -56,10 +56,9 @@ Minute 3 : 109 kW
 Each minute is 1/60 of the hour consumption. Our totalizer in kWh would look
 something like this :
 
-{% highlight %}
-Do Every 1 min
-total-consumption = total-consumption + (109kW * 1/60) kWh
-{% endhighlight %}
+
+    Do Every 1 min
+    total-consumption = total-consumption + (109kW * 1/60) kWh
 
 
 (By the way, you can easily convert your units in Vigilia: simply use
