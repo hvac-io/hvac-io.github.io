@@ -49,9 +49,9 @@ it back to a time unit.
 
 Let's say I have an input giving me the power of a compressor.
 
-Minute 1 : 100 kW
-Minute 2 : 110 kW
-Minute 3 : 109 kW
+- Minute 1 : 100 kW
+- Minute 2 : 110 kW
+- Minute 3 : 109 kW
 
 Each minute is 1/60 of the hour consumption. Our totalizer in kWh would look
 something like this :
@@ -59,10 +59,6 @@ something like this :
 
     Do Every 1 min
     total-consumption = total-consumption + (109kW * 1/60) kWh
-
-
-(By the way, you can easily convert your units in Vigilia: simply use
-a virtual object and apply the conversion equation.)
 
 
 
@@ -74,7 +70,9 @@ drawback : They keep the state *inside* the controller. "What is the
 problem with that?" you may ask. Well, if for any reason someone uploads an
 old backup into the controller, the totalization is lost.
 
-![Loading backups messes totalization](/images/totalization/totalization-kill.png "Loading backups messes totalization")
+
+<!-- ![Loading backups messes totalization](/images/totalization/totalization-kill.png "Loading backups messes totalization") -->
+<img src="/images/totalization/totalization-kill.png" width="600" alt="Loading backups messes totalization" title="Loading backups messes totalization">
 *Be afraid, very afraid*
 
 You don't even have to load a backup to screw everything. Anyone with
