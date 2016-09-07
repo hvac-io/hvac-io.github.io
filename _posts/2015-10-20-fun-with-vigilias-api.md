@@ -27,7 +27,7 @@ For the end user, it means you can test every endpoint directly from
 your browser.
 
 Give it a try! Go
-[there](https://vigilia.hvac.io/api/v1/swagger-ui/index.html#!/Project/get_project_project_id),
+[there](https://vigilia.hvac.io/api/v1),
 you should see what is shown in the picture below.
 
 [![Vigilia - HVAC-wiki](/images/vigilia-api/swagger.png)](/images/vigilia-api/swagger.png)
