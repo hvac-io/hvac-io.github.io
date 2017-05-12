@@ -68,7 +68,7 @@ always fit!
 
 ![Panning and zooming](/images/introducing-graphivac/pan-zoom.gif "Panning and zooming")
 
-<div class='text-center'> <i>The canvas is infinite. You don't have to split them into smaller drawings anymore.</i></div>
+<div class='text-center'> <i>The canvas is infinite. You don't have to split systems into smaller drawings anymore.</i></div>
 
 
 ## Extensible : Modes
