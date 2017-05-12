@@ -88,7 +88,7 @@ favorite existing tools.
 
 ![Graphivac Historical Mode](/images/introducing-graphivac/historical-mode.gif "Graphivac Historical Mode")
 
-<div class='text-center'> <i>Historical Mode*</i></div>
+<div class='text-center'> <i>Historical Mode</i></div>
 
 ## Metadata and Structure
 
