@@ -68,7 +68,7 @@ always fit!
 
 ![Panning and zooming](/images/introducing-graphivac/pan-zoom.gif "Panning and zooming")
 
-<div class='text-center' *The canvas is infinite. You don't have to split them into smaller drawings anymore.*</div>
+<div class='text-center' <i>The canvas is infinite. You don't have to split them into smaller drawings anymore.</i></div>
 
 
 ## Extensible : Modes
@@ -88,7 +88,7 @@ favorite existing tools.
 
 ![Graphivac Historical Mode](/images/introducing-graphivac/historical-mode.gif "Graphivac Historical Mode")
 
-<div class='text-center' *Historical Mode*</div>
+<div class='text-center' <i>Historical Mode*</i></div>
 
 ## Metadata and Structure
 
