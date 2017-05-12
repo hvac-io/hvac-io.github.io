@@ -97,16 +97,17 @@ Consequently, we know which component comes before the next.
 ![Generating Relations](/images/introducing-graphivac/graphivac-relations.png "Generating Relations")
 
 
-## Documentation
+## Download and Documentation
+
+For professional usage, you want might want to use your own Graphivac Server.
+A free server is available for download on [HVAC.IO](https://hvac.io/products/graphivac).
 
 Detailed documentation about Graphivac usage can be found on the HVAC wiki.
 
 <div class='text-center'>
   <a href='https://wiki.hvac.io/doku.php?id=suppliers:hvac.io:graphivac'>
-    <img src='/images/introducing-graphivac/hvac-wiki-logo.png'>
+    <img width=300 src='/images/introducing-graphivac/hvac-wiki-logo.png'>
   </a>
 </div>
 
-## FREE Server!
 
-A free server is available for download on [HVAC.IO](https://hvac.io/products/graphivac).
