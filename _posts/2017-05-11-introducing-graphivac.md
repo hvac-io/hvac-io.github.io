@@ -17,8 +17,8 @@ may look similar to other software you've already seen, the underlying
 architecture is quite different, which gives it huge advantages.
 
 Many BAS Graphics software are built around images. You place
-different images on a canvas and try to represent a HVAC system as
-best as you can. One downside of this approach is how dependent of the
+different images on a canvas and try to represent HVAC systems as best
+as you can. One downside of this approach is how dependent on the
 images themselves you are. Let's take a look at the picture below :
 
 ![Orcaview misaligned images](/images/introducing-graphivac/orcaview-misaligned.png "Orcaview misaligned images")
