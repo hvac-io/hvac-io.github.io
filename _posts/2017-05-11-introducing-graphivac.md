@@ -106,8 +106,8 @@ Detailed documentation about Graphivac usage can be found on the HVAC wiki.
 
 <div class='text-center'>
   <a href='https://wiki.hvac.io/doku.php?id=suppliers:hvac.io:graphivac'>
-    <img width=300 src='/images/introducing-graphivac/hvac-wiki-logo.png'>
+    <img width='300px' src='/images/introducing-graphivac/hvac-wiki-logo.png'>
   </a>
 </div>
 
-
+Enjoy!
