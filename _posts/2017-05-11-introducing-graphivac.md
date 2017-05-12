@@ -8,11 +8,8 @@ tags: [BACnet, Graphivac]
 ---
 {% include JB/setup %}
 
-
-## Graphivac
-
 ![Graphivac Snapshot](/images/introducing-graphivac/graphivac-snapshot.svg "Graphivac Snapshot")
-*Try it [online](https://graphivac.hvac.io/#/o/public/p/P-cBZ5F9AJC3)*
+<b>Try it <a href="https://graphivac.hvac.io/#/o/public/p/P-cBZ5F9AJC3" target="_blank">online</a>!</b>
 
 
 Graphivac is a new tool to make BAS Graphics. While on the surface it
@@ -25,7 +22,6 @@ best as you can. One downside of this approach is how dependent of the
 images themselves you are. Let's take a look at the picture below :
 
 ![Orcaview misaligned images](/images/introducing-graphivac/orcaview-misaligned.png "Orcaview misaligned images")
-*An example of how each image had to be placed perfectly*
 
 The software is *blind* to what you are doing. It doesn't know that
 ducts are supposed to touch. Or that a gap between images might be
@@ -39,7 +35,7 @@ of what is there.
 This allows us to handle trivial matters like making sure there is no
 gap between duct sections.
 
-![Graphivac Simple Duct](/images/introducing-graphivac/graphivac-duct "Graphivac Simple Duct")
+![Graphivac Simple Duct](/images/introducing-graphivac/graphivac-duct.png "Graphivac Simple Duct")
 
 It also means you can change the visual representation of a system
 without re-drawing it; selecting a different *theme* is enough. In
@@ -52,7 +48,7 @@ between physical components and use this to make advanced analysis.
 (More on this later.)
 
 
-### Built for Browsers
+## Built for Browsers
 
 Many software will give you the option to 'export' into a web format.
 The exporting process will often do a good-enough job, but will still
@@ -63,7 +59,7 @@ the viewer. What you see is what you get.
 We leverage the SVG (Scalable Vector Graphics) format supported by all
 major browsers to render crisp and zoomable drawings of HVAC systems.
 
-### Unlimited Canvas
+## Unlimited Canvas
 
 Contrary to many BAS graphics software, Graphivac's engine allows you
 to pan and zoom as much as you want. You don't have to divide big
@@ -74,7 +70,7 @@ always fit!
 *The canvas is infinite. You don't have to split them into smaller drawings anymore.*
 
 
-### Extensible : Modes
+## Extensible : Modes
 
 Graphivac is built to make it easy to add new features and
 capabilities. The main way to do this is via 'modes', each of which
@@ -89,8 +85,9 @@ The 3 built-in modes in Graphivac are a good example :
 This approach allows Graphivac to be extended to work with your
 favorite existing tools.
 
+![Graphivac Historical Mode](/images/introducing-graphivac/historical-mode.gif "Graphivac Historical Mode")
 
-### Metadata and Structure
+## Metadata and Structure
 
 We mentioned a little earlier that Graphivac's underlying architecture
 gave it many advantages, notably the possibility of building relations
@@ -100,7 +97,7 @@ Consequently, we know which component comes before the next.
 ![Generating Relations](/images/introducing-graphivac/graphivac-relations.png "Generating Relations")
 
 
-### Documentation
+## Documentation
 
 Detailed documentation about Graphivac usage can be found on the HVAC wiki.
 
@@ -110,6 +107,6 @@ Detailed documentation about Graphivac usage can be found on the HVAC wiki.
   </a>
 </div>
 
-### FREE Server!
+## FREE Server!
 
 A free server is available for download on [HVAC.IO](https://hvac.io/products/graphivac).
