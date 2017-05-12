@@ -67,7 +67,7 @@ systems into smaller drawings just so that they can fit; they will
 always fit!
 
 ![Panning and zooming](/images/introducing-graphivac/pan-zoom.gif "Panning and zooming")
-*The canvas is infinite. You don't have to split them into smaller drawings anymore.*
+<div class='text-center' *The canvas is infinite. You don't have to split them into smaller drawings anymore.*</div>
 
 
 ## Extensible : Modes
@@ -86,6 +86,7 @@ This approach allows Graphivac to be extended to work with your
 favorite existing tools.
 
 ![Graphivac Historical Mode](/images/introducing-graphivac/historical-mode.gif "Graphivac Historical Mode")
+<div class='text-center' *Historical Mode*</div>
 
 ## Metadata and Structure
 
