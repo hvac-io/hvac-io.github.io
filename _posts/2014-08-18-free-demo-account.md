@@ -28,4 +28,4 @@ all the benefits.
 See how your system behave, or misbehave!
 
 
-<iframe allowfullscreen="" height="500px" mozallowfullscreen="" scrolling="no" src="https://hvac.io/vigilia/embed/g/5371147be4b0222b740851a2?tab=%3Atimeseries&amp;bc%5B%5D=%3Aa10122..0.7..0.2..4.1" style="overflow:hidden; border:1px solid grey;border-radius:5px;background-size: cover;" webkitallowfullscreen="" width="100%"></iframe>
+<iframe allowfullscreen="" height="500px" mozallowfullscreen="" scrolling="no" src="https://vigilia.hvac.io/embed/g/5371147be4b0222b740851a2?tab=%253Atimeseries&bc%5B%5D=%253Aa10122..0.2..0.7..4.1" style="overflow:hidden; border:1px solid grey;border-radius:5px;background-size: cover;" webkitallowfullscreen="" width="100%"></iframe>
