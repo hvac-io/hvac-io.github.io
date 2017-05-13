@@ -9,7 +9,7 @@ tags: [BACnet, Graphivac]
 {% include JB/setup %}
 
 ![Graphivac Snapshot](/images/introducing-graphivac/graphivac-snapshot.svg "Graphivac Snapshot")
-<div class='text-center'><b>Try it <a href="https://graphivac.hvac.io/#/o/public/p/P-cBZ5F9AJC3" target="_blank">online</a>!</b></div>
+<p class='text-center'><b>Try it <a href="https://graphivac.hvac.io/#/o/public/p/P-cBZ5F9AJC3" target="_blank">online</a>!</b></p>
 
 
 Graphivac is a new tool to make BAS Graphics. While on the surface it
