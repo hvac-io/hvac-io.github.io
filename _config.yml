@@ -11,6 +11,12 @@ highlighter: rouge
 title : HVAC.IO
 tagline: Record, Analyze, Improve!
 
+#RSS info
+name : HVAC.IO's blog
+description : What's new from HVAC.IO
+url : https://blog.hvac.io
+rss_path : /rss.xml
+
 
 # http://whatdoesthequantsay.com/2014/03/16/adding-multiple-authors-to-the-jb-twitter-theme/
 authors :
@@ -100,7 +106,7 @@ JB :
   categories_path : /categories.html
   tags_path : /tags.html
 #  atom_path : /atom.xml
-#  rss_path : /rss.xml
+
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
