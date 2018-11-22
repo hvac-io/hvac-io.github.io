@@ -59,6 +59,7 @@ authors :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://blog.hvac.io
+base_path : http://blog.hvac.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
