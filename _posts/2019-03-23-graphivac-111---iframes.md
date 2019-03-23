@@ -55,7 +55,7 @@ Want to automatically zoom the drawing to fill the space given to the Iframe?
 ![Iframe Editor](/images/graphivac-111/graphivac-iframe-edit.png "Graphicac Iframe Editor")
 
 What does it looks like? Well, just take a look below.
-No distracting editor and toolbar, simply a paneable, zoomable, HVAC drawing.
+No distracting editor and toolbar, simply a pannable, zoomable, HVAC drawing.
 The perfect addition to please your users!
 
-<iframe src="https://graphivac.hvac.io/o/public/p/P-cBZ5F9AJC3/g/G-WxOgldoJOj?iframe=t&init-zoom=t" height="400" width="100%" style="border: 1px solid #3365cc;"></iframe>
+<iframe onwheel="event.preventDefault();" src="https://graphivac.hvac.io/o/public/p/P-cBZ5F9AJC3/g/G-WxOgldoJOj?iframe=t&init-zoom=t" height="400" width="100%" style="border: 1px solid #3365cc;"></iframe>
